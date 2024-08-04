@@ -5,3 +5,4 @@
 yidadaa/chatgpt-next-web
 jc21/nginx-proxy-manager:latest
 xhofe/alist:latest
+filebrowser/filebrowser
