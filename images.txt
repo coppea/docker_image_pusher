@@ -8,3 +8,4 @@ filebrowser/filebrowser
 hslr/sun-panel
 corentinth/it-tools
 snowdreamtech/frps
+ghcr.io/thomiceli/opengist:1
