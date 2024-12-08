@@ -8,4 +8,3 @@ filebrowser/filebrowser
 hslr/sun-panel:latest
 corentinth/it-tools
 snowdreamtech/frps:latest
-harrygg2023/picx:2.5.0
