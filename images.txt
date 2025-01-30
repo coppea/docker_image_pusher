@@ -8,3 +8,4 @@ filebrowser/filebrowser
 hslr/sun-panel:latest
 corentinth/it-tools
 snowdreamtech/frps:latest
+vaultwarden/server:latest
